@@ -1,0 +1,6 @@
+{
+  "name": "Laboratório de Senhas Seguras",
+  "description": "Aplicação educativa e interativa para feiras de ciências sobre criação de senhas fortes, análise de vulnerabilidades e segurança digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
